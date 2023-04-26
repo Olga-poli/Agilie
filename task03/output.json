@@ -1,0 +1,23 @@
+{
+ "subtask01": {
+  "result": {
+   "newRecordWeight": 101.0718474,
+   "discsSet": [
+    "20 kg",
+    "10 kg",
+    "5 kg",
+    "10 pounds",
+    "1 kg"
+   ]
+  }
+ },
+ "subtask02": {
+  "result": [
+   "S",
+   "M",
+   "M",
+   "L",
+   "XXL"
+  ]
+ }
+}

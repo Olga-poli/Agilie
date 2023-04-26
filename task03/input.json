@@ -1,0 +1,22 @@
+{
+  "data": {
+    "subtask01": {
+      "allowedDiscs": {
+        "metric": [0.5, 1, 2.5, 5, 10, 15, 20, 25],
+        "imperial": [10, 25, 35, 45]
+      },
+      "recordWeight": 101
+    },
+    "subtask02": {
+      "availableShirts": [
+        { "name": "S", "amount": 1 },
+        { "name": "M", "amount": 2 },
+        { "name": "L", "amount": 5 },
+        { "name": "XL", "amount": 2 },
+        { "name": "XXL", "amount": 2 },
+        { "name": "XXXL", "amount": 2 }
+      ],
+      "sizesNeeded": [["S", "M"], ["M", "L"], ["M","L"], ["L"], ["XXL"]]
+    }
+  }
+}
